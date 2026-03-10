@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 Axiom Drainer
+# 🚀 Axiom Drainer (Bookmark)
 
 🎯 **ВСЁ ПРОСТО:** | **EVERYTHING IS SIMPLE:** | **一切都很简单:**
 1.  Зайти | Go to | 进入
