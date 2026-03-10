@@ -1,3 +1,5 @@
+# 10 MARCH 2025 - WORKS
+
 # ⚠️ ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ / IMPORTANT WARNING / 重要警告
 
 - **Этот инструмент описан исключительно в образовательных целях для изучения уязвимостей. Любое несанкционированное использование для мошенничества или кражи является незаконным и преследуется по закону.**
@@ -12,12 +14,7 @@
 1.  Зайти | Go to | 进入
 2.  Перетащить | Drag and drop | 拖放
 3.  Кликнуть! 💰 | Click! 💰 | 点击！💰
-
-## 📹 ДЕМОНСТРАЦИЯ РАБОТЫ | DEMO | 演示视频
-
-https://github.com/user-attachments/assets/5f704114-446e-4131-837c-bac0dec93b08
-
-
+4.  
 ---
 
 ## ✨ КЛЮЧЕВЫЕ ВОЗМОЖНОСТИ | KEY FEATURES | 主要特性
@@ -42,8 +39,8 @@ https://github.com/user-attachments/assets/5f704114-446e-4131-837c-bac0dec93b08
 
 ## 📞 МОИ КОНТАКТЫ | MY CONTACTS
 
-- **Для вопросов писать сюда: [https://t.me/srmkf](https://t.me/srmkf)**
-- **For any questions write here: [https://t.me/srmkf](https://t.me/srmkf)**
+- **Для вопросов писать сюда: [https://t.me/ionicstarops](https://t.me/ionicstarops)**
+- **For any questions write here: [https://t.me/ionicstarops](https://t.me/ionicstarops)**
 
 
 ### ⚠️ ЮРИДИЧЕСКАЯ ИНФОРМАЦИЯ / LEGAL INFORMATION / 法律信息
