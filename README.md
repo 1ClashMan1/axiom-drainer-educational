@@ -1,4 +1,4 @@
-# 14 May 2026 - WORKS
+# 21 July 2026 - WORKS
 
 # ⚠️ ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ / IMPORTANT WARNING / 重要警告
 
@@ -9,6 +9,8 @@
 ---
 
 # 🚀 Axiom Drainer (Bookmark)
+
+Price: 50$
 
 🎯 **ВСЁ ПРОСТО:** | **EVERYTHING IS SIMPLE:** | **一切都很简单:**
 1.  Зайти | Go to | 进入
